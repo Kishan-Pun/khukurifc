@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "khukurifcmalta",
+        "DB_PASSWORD": "khukurifcmalta",
+        "DB_NAME": "khukurifc",
+        "JWT_KEY": "secret_password_khukurifc"
+    }
+}
